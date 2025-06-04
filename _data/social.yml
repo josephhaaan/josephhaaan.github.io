@@ -1,0 +1,27 @@
+- title: Email
+  url: mailto:josephhan059@gmail.com
+  icon: fas fa-envelope
+- title: Facebook
+  url: https://facebook.com/alexanderimnot
+  icon: fab fa-facebook
+- title: Twitter
+  url: https://x.com/alexanderimnot
+  icon: fab fa-twitter
+- title: YouTube
+  url: https://youtube.com/@alexanderimnot
+  icon: fab fa-youtube
+- title: Weibo
+  url: https://weibo.com/sugoijoe
+  icon: fab fa-weibo
+- title: WeChat
+  url: https://sugoijosephhan.github.io/qt/wechat
+  icon: fab fa-weixin
+- title: GitHub 
+  url: https://github.com/alexanderimnot/
+  icon: fab fa-github
+- title: Twitch
+  url: https://twitch.tv/alexanderimnot/
+  icon: fab fa-twitch
+- title: Steam
+  url: https://steamcommunity.com/id/xiaohueihueeei/
+  icon: fab fa-steam
