@@ -1,6 +1,9 @@
 - title: Facebook
   url: https://facebook.com/alexanderimnot
   icon: fab fa-facebook
+- title: X
+  url: https://x.com/alexanderimnot
+  icon: fab fa-twitter
 - title: YouTube
   url: https://youtube.com/@alexanderimnot
   icon: fab fa-youtube
@@ -19,3 +22,6 @@
 - title: Steam
   url: https://steamcommunity.com/id/xiaohueihueeei/
   icon: fab fa-steam
+- title: Email
+  url: mailto:josephhan059@gmail.com
+  icon: fas fa-email
