@@ -1,7 +1,7 @@
 # Setup
-title: Alexander H.
+title: Alexander
 description: "Fais de mon mieux."
-url:
+url: https://alexanderimnot.github.io
 avatar: /images/tx2.jpg
 paginate: 8
 permalink: pretty
@@ -35,7 +35,6 @@ logo: /images/tx2.jpg
 social:
   name: 
   links:
-    - https://github.com/alexanderimnot
 google_site_verification: 
 lang: en
 
