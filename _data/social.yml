@@ -1,12 +1,3 @@
-- title: Facebook
-  url: https://facebook.com/tomoya537
-  icon: fab fa-facebook
-- title: X
-  url: https://x.com/@_tomoya537
-  icon: fab fa-twitter
-- title: YouTube
-  url: https://youtube.com/@tomoya537
-  icon: fab fa-youtube
 - title: Weibo
   url: https://weibo.com/sugoijoe
   icon: fab fa-weibo
@@ -19,9 +10,6 @@
 - title: Twitch
   url: https://www.twitch.tv/tomoya537
   icon: fab fa-twitch
-- title: Steam
-  url: https://steamcommunity.com/id/xiaohueihueeei/
-  icon: fab fa-steam
 - title: Email
-  url: mailto:josephhan059@gmail.com
+  url: mailto:3047285021@qq.com
   icon: fas fa-envelope
