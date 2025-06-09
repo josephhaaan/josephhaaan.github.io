@@ -1,7 +1,7 @@
 # Setup
-title: Xiaohueihueeei
-description: "Je fais de mon mieux."
-url: https://alexanderimnot.github.io
+title: 小灰灰
+description: "尽我所能。"
+url: https://josephhan27.github.io
 avatar: /images/tx2.jpg
 paginate: 8
 permalink: pretty
@@ -52,6 +52,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Xiaohueihueeei
+  name: 小灰灰
   url: /about
   email: 
