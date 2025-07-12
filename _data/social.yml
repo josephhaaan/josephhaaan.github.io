@@ -3,7 +3,7 @@
   icon: fab fa-facebook
 - title: X
   url: https://x.com/parallelgrey
-  icon: fab fa-x-twitter
+  icon: fab fa-twitter
 - title: instagram
   url: https://www.instagram.com/realparallelgrey/
   icon: fab fa-instagram
@@ -16,9 +16,6 @@
 - title: WeChat
   url: https://josephhaaan.github.io/qt/wechat
   icon: fab fa-weixin
-- title: Bilibili
-  url: https://space.bilibili.com/3493090660714839
-  icon: fab fa-bilibili
 - title: GitHub 
   url: https://github.com/josephhaaan/
   icon: fab fa-github
