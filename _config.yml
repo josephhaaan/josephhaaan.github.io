@@ -1,8 +1,8 @@
 # Setup
-title: Xiaohuihui
-description: "诸事顺遂"
+title: ✨Parallel Grey✨
+description: "Everything goes well."
 url: https://josephhaaan.github.io
-avatar: /images/tx2.jpg
+avatar: /images/tx3.jpg
 paginate: 8
 permalink: pretty
 cover_image: /images/bg7.jpg
@@ -52,6 +52,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Xiaohuihui
+  name: ✨Parallel Grey✨
   url: /about
   email: 
