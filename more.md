@@ -3,6 +3,6 @@ layout: page
 title: More
 ---
  
-| 可供服务 |                     
+| Avaliable Services |                     
 | :--- |                     
-| [上海话在线辞典](/shanghainese/) |                      
+| [Shanghainese Dictionary Online (Simplified Chinese Pages)](/shanghainese/) |                      
