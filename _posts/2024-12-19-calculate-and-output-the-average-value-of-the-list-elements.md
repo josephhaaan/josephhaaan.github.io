@@ -36,11 +36,3 @@ average = total_sum / len(number_list)
 # 输出平均值
 print(f"列表元素的平均值为: {average}")
 ```             
-
-### 步骤详解            
-
-+ ``user_input = input("请输入一个列表（元素之间用空格分隔）: ")``：这行代码正确地从用户那里获取了一个字符串输入，并提示用户输入列表，元素之间用空格分隔。              
-+ ``number_list = [float(num) for num in user_input.split()]``：这行代码使用列表推导式和``split()``方法将用户输入的字符串分割成列表，并将每个元素转换为浮点数。              
-+ ``total_sum = sum(number_list)``：这行代码使用sum()函数计算列表中所有元素的总和，这是计算平均值所需的。               
-+ ``average = total_sum / len(number_list)``：这行代码通过将总和除以列表的长度来计算平均值。                
-+ ``print(f"列表元素的平均值为: {average}")``：这行代码使用格式化字符串``（f-string）``来输出平均值。             
